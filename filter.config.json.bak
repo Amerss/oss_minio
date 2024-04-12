@@ -1,0 +1,20 @@
+[
+  {
+    "name": "amerss-bucket-1",
+    "suffix": [],
+    "prefix": [
+      "2024/leadleo_scripts"
+    ],
+    "encoding-type": "",
+    "regular": []
+  },
+  {
+    "name": "amerss-bucket-2",
+    "suffix": [
+      ".png"
+    ],
+    "prefix": [],
+    "encoding-type": "",
+    "regular": []
+  }
+]
